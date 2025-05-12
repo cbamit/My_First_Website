@@ -1,0 +1,60 @@
+ <style>
+        #p{
+            text-align: justify;
+        }
+        .name{
+            text-align: center;
+            color:#fff396;
+            background-color: rgb(101, 0, 135);
+            font-size : 40px;
+            font-weight : 700;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            border: 5px salmon;
+            border-radius: 10px;
+            margin: 10px;
+            padding: 10px 10px 10px 10px;
+        }
+        #birthday{
+            color: rgb(0, 89, 255);
+            background-color: rgb(255, 155, 155);
+            height: 20px;
+            width: 70%;
+        }
+        .surname{
+            border: 10px solid rgb(115, 255, 16);
+            width: auto;
+            height: auto;
+            border-radius: 10px;
+            margin: 20px;
+            padding: 10px;
+            font-size:90%;
+            font-style: italic;
+            font-weight: 100;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .proffesion{
+            color:tomato;
+        }
+        .into{
+            
+        }
+        .edu{
+            text-align: center;
+            color:aqua;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(43, 0, 255);
+            border: 80px solid purple;
+            border-width: 10px;
+            border-radius: 30px;
+            margin: 10px 10px 10px;
+            padding: 20px;
+        }
+        .gpa{
+            border: 40px;
+            border-width: 20px;
+            border-radius: 10px;
+            margin: 10px 10px 20px 20px;
+            color: rgb(0, 255, 255);
+            background-color: rgb(218, 238, 255);
+            font-family: monospace;
+        }
